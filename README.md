@@ -48,7 +48,7 @@ Struktur program terdiri dari beberapa file yang terorganisir dalam folder (pack
    2) Opsi 2
       Tampilkan daftar film
 
-      ![image](https://github.com/user-attachments/assets/262839a4-b3d8-4bca-84dd-1b201a4486ba)
+      ![image](https://github.com/user-attachments/assets/d41fb9cb-c693-4931-94f3-c26a30ec14c5)
 
       Looping ke menu utama
       
@@ -57,7 +57,7 @@ Struktur program terdiri dari beberapa file yang terorganisir dalam folder (pack
    3) Opsi 3
       Hapus film
   
-      ![image](https://github.com/user-attachments/assets/2e1d1077-0c31-44f1-b84e-2aed14910211)
+      ![image](https://github.com/user-attachments/assets/e59c56d9-ff62-476a-8158-c523e43c21bd)
 
       Looping ke menu utama
       
@@ -67,7 +67,7 @@ Struktur program terdiri dari beberapa file yang terorganisir dalam folder (pack
    5) Opsi 4
       Update film
   
-      ![image](https://github.com/user-attachments/assets/3fdd58db-681f-4c75-b01b-c4b8c5017269)
+      ![image](https://github.com/user-attachments/assets/ae7be4d7-3d9e-4647-875b-22692ffcb260)
 
       Looping ke menu utama
       
